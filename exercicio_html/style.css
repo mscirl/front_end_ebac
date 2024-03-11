@@ -55,3 +55,14 @@ input {
 fieldset {
     gap: 30px;
 }
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    width: 90px;
+}
+
+button:hover {
+    color: #b23a7c;
+    cursor: pointer;
+}
