@@ -112,3 +112,11 @@ section h2  {
 #tecnology .articles article a {
     background-color: rgb(72, 72, 222);
 }
+
+#pop_culture {
+    background-color: rgb(244, 162, 203);
+}
+
+#pop_culture .articles article a {
+    background-color: rgb(238, 107, 172);
+}
